@@ -1,0 +1,9 @@
+p {
+	color: red;
+	background: black;
+	font-weight: bold;
+	text-align: right;
+}
+p {
+	text-shadow: 2px 2px #FF0000;
+}
