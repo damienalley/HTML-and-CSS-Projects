@@ -71,7 +71,7 @@ PHOTO OVERLAY TRANSITIONS
 }
 
 .photo-overlay:hover {
-    opacity: 1;
+    opacity: .5;
 }
 
 .photo img {
