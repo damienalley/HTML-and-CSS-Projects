@@ -1,0 +1,17 @@
+/*----------------------------------------------
+GENERIC STYLES
+----------------------------------------------*/
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+}
+		
+/*----------------------------------------------
+RSVP
+----------------------------------------------*/
+.rsvp {
+    width: 100px;
+    margin: 10px auto;
+    border: 2px solid red;
+    border-radius: 5px;
+}
